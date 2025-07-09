@@ -264,6 +264,17 @@
                 },
                 {
                     "name": "",
+                    "id": "56efbd69-1906-47c5-adb6-57e36a028d3f",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "143bb1cd-cc10-4eca-a2f0-a3664166fe91",
                     "path": "<Gamepad>/buttonWest",
                     "interactions": "",
@@ -485,7 +496,7 @@
                 {
                     "name": "",
                     "id": "fa215bac-213f-4f19-b60a-f16eca6cf98f",
-                    "path": "<Keyboard>/space",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
